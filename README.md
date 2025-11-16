@@ -1,15 +1,11 @@
 # REVENUE_360_ANALYTICS
 
-#  **Sales Analysis Project – README**
-
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-orange.svg)
 ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-teal.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-
-#  **Sales Analysis Project**
 
 This project analyzes monthly sales data to uncover revenue trends, customer behavior patterns, and opportunities for business growth. The analysis merges, cleans, and visualizes large datasets to support strategic decision-making across sales, marketing, and operations.
 
