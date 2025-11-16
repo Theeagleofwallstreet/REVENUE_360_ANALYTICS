@@ -10,7 +10,7 @@
 This project analyzes monthly sales data to uncover revenue trends, customer behavior patterns, and opportunities for business growth. The analysis merges, cleans, and visualizes large datasets to support strategic decision-making across sales, marketing, and operations.
 
 
-TO access the full article and the executive presentation, click the link below:
+To access the full article and the executive presentation, click the link below:
 
 [**How Exploratory Data Analysis Helps Reduce Customer Churn: A Business-Driven METRO PLUS Case Study**](https://medium.com/@theeagleofwallstreet/how-exploratory-data-analysis-helps-reduce-customer-churn-a-business-driven-case-metro-plus-case-96bb2cd1ff4e)
 
