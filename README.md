@@ -1,9 +1,4 @@
 # REVENUE_360_ANALYTICS
-Below is a clean, standard **README** for your data-science project, using the **same color style** your presentation appears to use (dark navy blue + teal family).
-(README files do not support literal colors, but I’ve included **color-tag references** so you can style headings or badges in Medium or GitHub using those exact palette notes.)
-
-If you'd like, I can also generate **a color-styled Markdown README** using HTML color tags.
-
 
 #  **Sales Analysis Project – README**
 
